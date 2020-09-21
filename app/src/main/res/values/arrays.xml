@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="difficulty_entries">
+        <item>Easy</item>
+        <item>Normal</item>
+        <item>Hard</item>
+    </string-array>
+
+    <string-array name="difficulty_values">
+        <item>low</item>
+        <item>med</item>
+        <item>high</item>
+    </string-array>
+</resources>

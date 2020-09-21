@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tetris</string>
+    <string name="play">Play</string>
+    <string name="settings">Settings</string>
+    <string name="leaderboard">Scores</string>
+    <string name="back">Back</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="difficulty_header">Difficulty</string>
+    <string name="other_header">Other</string>
+    <string name="difficulty_setting">Difficulty</string>
+    <string name="enable_scores_setting">Enable score recording</string>
+    <string name="score">Score:</string>
+    <string name="leftArrow"><![CDATA[<]]></string>
+    <string name="downArrow">\\/</string>
+    <string name="rightArrow"><![CDATA[>]]></string>
+    <string name="rotateSymbol">0</string>
+    <string name="delete_all">Delete all</string>
+    <string name="divider">|</string>
+
+</resources>
